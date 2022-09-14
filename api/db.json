@@ -1,0 +1,22 @@
+{
+  "streams": [
+   
+    {
+      "title": "my Stream",
+      "description": "I created this stream",
+      "userId": "114292671840232608002",
+      "id": 4
+    },
+    {
+      "title": "food",
+      "description": "We must eat to survive",
+      "userId": "114292671840232608002",
+      "id": 7
+    },
+    {
+      "title": "forest",
+      "description": "a survival game and crafting",
+      "id": 9
+    }
+  ]
+}
